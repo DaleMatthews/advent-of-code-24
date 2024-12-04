@@ -1,0 +1,1 @@
+mul(1,1)don't()mul(1,2)do()mul(1,3)mul(1,1)don't()mul(1,2)do()mul(1,3)
